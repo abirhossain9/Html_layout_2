@@ -1,0 +1,312 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+.header
+{
+	background-color: #030304;
+
+}
+.wrapper1
+{
+	width: 80%;
+	margin: 0 auto;
+	overflow: hidden;
+
+}
+.logo
+{
+	width: 8%;
+	float: left;
+}
+
+.logo img
+{
+	width: 100%;
+}
+
+.menu
+{
+	width: 50%;
+	float:right;
+	margin-top:30px; 
+
+
+}
+
+.menu ul
+{
+float: middle; 
+}
+.menu ul li
+{
+list-style: none;
+float: left;
+}
+
+.menu ul li a
+{
+text-decoration: none;
+color: red;
+display: block;
+padding: 0 40px;
+text-transform: uppercase;
+}
+.body1
+{
+	background-color: white
+}
+.wrapper2
+{
+	overflow: hidden;
+	min-height:300px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.natsu_pic {
+    float: left;
+    width: 51%;
+    margin-left: 10px;
+}
+.natsu_pic img
+{
+	width: 100%;
+}
+.natsu_content
+{
+	float: right;
+	margin-right: 10px;
+	width: 45%;
+}
+.natsu_content h2
+{
+	color: red;
+}
+.natsu_content h3
+{
+	color: red;
+}
+.body2
+{
+	background-color: white;
+}
+.wrapper3
+{
+	overflow: hidden;
+	min-height: 400px;
+}
+.grey_pic_content {
+    width: 32%;
+    float: left;
+    margin-left: 10px;
+}
+.grey_pic_content img
+{
+ width: 100%;
+}
+.lexus_pic_content {
+    width: 32%;
+    float: left;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-top: 4px;
+}
+.lexus_pic_content img
+{
+	width: 100%;
+}
+.zeref_pic_content
+{
+	width:32%;
+	float:right;
+	margin: 0 10px
+}
+.zeref_pic_content img
+{
+	width: 100%;
+}
+.wrapper4
+{
+	overflow: hidden;
+	min-height: 200px;
+}
+.grey_pic li
+{
+list-style: none;
+width:32%;
+float: left;
+color: red;
+margin-left: 10px;
+margin-top: -26px;
+}
+
+.lexus_pic li {
+    list-style: none;
+    width: 32%;
+    float: left;
+    color: red;
+    display: block;
+    margin-left: 29px;
+    margin-top: -26px;
+}
+.zeref_pic li
+{
+list-style: none;
+width:32%;
+float: right;
+color: red;
+display: block;
+margin-top: -26px;
+}
+.wrapper5
+{
+	overflow: hidden;
+	min-height: 400px;
+}
+.lucy_pic_content {
+    width: 32%;
+    float: left;
+    margin-left: 10px;
+}
+.lucy_pic_content img
+{
+ width: 100%;
+}
+.erza_pic_content {
+    width: 32%;
+    float: left;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-top: 4px;
+}
+.erza_pic_content img
+{
+	width: 100%;
+}
+.ftail_pic_content
+{
+	width:32%;
+	float:right;
+	margin: 0 10px;
+
+}
+.ftail_pic_content img
+{
+	width: 100%;
+}
+.wrapper6
+{
+	overflow: hidden;
+	min-height: 200px;
+}
+.lucy_pic li
+{
+list-style: none;
+width:32%;
+float: left;
+color: red;
+margin-left: 10px;
+margin-top: -26px;
+}
+
+.erza_pic li {
+    list-style: none;
+    width: 32%;
+    float: left;
+    color: red;
+    margin-left: 29px;
+    margin-top: -26px;
+}
+.ftail_pic li
+{
+list-style: none;
+width:32%;
+float: right;
+color: red;
+margin-top: -26px;
+}
+
+.footer
+{
+	background-color: black;
+	min-height: 150px;
+	overflow: hidden;
+}
+.facebook
+{
+	float: left;
+    margin-left: 200px;
+    margin-right: 300px;
+    margin-top: 30px;
+}
+.facebook h2 a
+{
+	text-decoration: none;
+	color:red;
+}
+.linkedin
+{
+	float: left;
+    margin-right: 300px;
+    margin-top: 30px;
+}
+.linkedin h2 a
+{
+	text-decoration: none;
+	color:red;
+}
+.github
+{
+	float:left;
+	margin-top: 30px;
+}
+.github h2 a
+{
+	text-decoration: none;
+	color:red;
+}
+.logos
+{
+	float:right;
+	width: 35%;
+	overflow: hidden;
+	display: block;
+}
+.fblogo
+{
+	
+    float: left;
+    width: 10%;
+    padding-left: 200px;
+    padding-right: 40px;
+}
+
+.fblogo img
+{
+	width: 100%;
+}
+.lilogo
+{
+	float: left;
+	width:10%;
+	padding-right: 40px; 
+}
+.lilogo img
+{
+	width: 100%;
+}
+.gilogo
+{
+	float: left;
+	width:11%;
+}
+
+.gilogo img
+{
+	width: 100%;
+}
+.logos h2
+{
+	color: red
+}
